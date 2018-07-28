@@ -15,7 +15,7 @@ endProduct = [] # Holds the end product of the algorithm
  # was faster for me.
 PHRASES = []
 
-POPLEN = 450 # Stores population length (450 appears to be when the algorithm loses efficency 
+POPLEN = 2500 # Stores population length (450 appears to be when the algorithm loses efficency 
 population = [] # Stores the entire population 
 
 def retPhrase(phrase): # This function converts the text to binary
